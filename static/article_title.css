@@ -1,8 +1,7 @@
 .article_title{
-    font-family: 'Roboto', san-serif;
+    font-family: 'Roboto';
     font-weight: bold;
-    line-height: 1;
-    color: yellowgreen;
+    line-height: 2;
   }
   
   .article_title h1{
