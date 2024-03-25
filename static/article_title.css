@@ -1,10 +1,21 @@
-.article_title{
+  .article_title{
     font-family: 'Roboto';
     font-weight: bold;
-    line-height: 2;
+    line-height: 1;
+    text-align: left;
   }
   
-  .article_title h1{
+  .col-8 h1{
     font-size: 48px;
     margin: 0;
+    
+  }
+
+  .col-8{
+    background-color: aqua;
+  }
+
+  .col-8 img{
+    width: 1068px;
+    height: 710px;
   }
