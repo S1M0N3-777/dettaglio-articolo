@@ -1,8 +1,8 @@
-.col h3{
+.article_signature h3{
     font-size: 22px;
     font-family: 'Monospace', 'Overpass Mono';
     font-weight: bold;
-    line-height: 0.91;
+    line-height: 1;
     margin-top: 35px;
 
 }
